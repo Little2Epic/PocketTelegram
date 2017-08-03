@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Little2Epic/PocketTelegram
+branches:
+- master
+projects:
+  PocketTelegram:
+    path: ""
+...
